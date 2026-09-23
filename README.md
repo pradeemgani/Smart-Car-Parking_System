@@ -132,7 +132,7 @@ parking system.
 - Exit sensor status
 - System reset
 
-![Blynk Dashboard](Images/Blynk_Dashboard_Output.png)
+![Blynk Dashboard](Images/Blynk_Dashboard_Output.jpeg)
 
 ---
 
@@ -144,7 +144,7 @@ parking system.
 
 ### Parking Model
 
-![Parking Model](Images/Project_Setup_2.jpeg)
+![Parking Model](Images/Project_setup_2.jpeg)
 
 ---
 
